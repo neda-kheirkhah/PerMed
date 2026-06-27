@@ -56,3 +56,13 @@ PerMed follows a research-oriented framework for adapting medical large language
 5. Performance evaluation using representative medical queries.
 
 This modular design enables the framework to be extended to future multilingual and multimodal healthcare applications.
+
+## Project Highlights
+
+* Medical Large Language Model adaptation for Persian
+* Based on Meditron foundation model
+* Prompt Engineering for medical question answering
+* Multilingual healthcare AI framework
+* Research-oriented system architecture
+* Modular and extensible design
+* Developed as an MSc Artificial Intelligence research project
