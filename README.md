@@ -37,3 +37,22 @@ The overall objective is to provide reliable Persian medical question answering 
 Although medical large language models such as Meditron demonstrate strong performance on English biomedical tasks, they provide limited support for Persian-speaking healthcare professionals and patients.
 
 PerMed was developed to bridge this gap by exploring Persian adaptation strategies for medical LLMs, enabling more accessible, reliable, and multilingual medical question answering while preserving domain-specific medical knowledge.
+
+
+## Why PerMed?
+
+Existing medical large language models are primarily designed for English, limiting their usability in low-resource languages such as Persian. PerMed investigates how domain-specific medical knowledge can be effectively adapted for Persian through multilingual prompting, language adaptation, and medical reasoning.
+
+The project aims to support future AI-driven healthcare systems for Persian-speaking communities while maintaining scientific reliability and clinical relevance.
+
+## Methodology
+
+PerMed follows a research-oriented framework for adapting medical large language models to Persian healthcare applications. The methodology consists of the following stages:
+
+1. Medical knowledge acquisition using Meditron.
+2. Persian language adaptation through multilingual prompting and translation strategies.
+3. Prompt engineering for medical question answering.
+4. Response generation and refinement.
+5. Performance evaluation using representative medical queries.
+
+This modular design enables the framework to be extended to future multilingual and multimodal healthcare applications.
