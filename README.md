@@ -81,34 +81,10 @@ The ongoing research evaluates:
 
 Detailed quantitative evaluations and benchmark results will be released after the completion of the research.
 
+## 📄 Publication
+Kheirkhah, N., Faridi Masouleh, M., Bagheri, A. (2024).
+"Design and Development of a Customized Language Model for Medicine: PerMed"
+International Journal of Applied Operational Research.
 
-## Example Questions
-
-### Example 1
-
-**Question**
-
-> What are the common symptoms of diabetes?
-
-**Expected Response**
-
-> PerMed provides a medically informed answer describing common symptoms such as increased thirst, frequent urination, fatigue, blurred vision, and unexplained weight loss, while emphasizing that medical advice should be obtained from qualified healthcare professionals.
-
----
-
-### Example 2
-
-**Question**
-
-> What should I do if I have a persistent fever?
-
-**Expected Response**
-
-> PerMed explains possible causes, recommends monitoring symptoms, encourages adequate hydration, and advises consulting a physician if symptoms become severe or persistent.
-
----
-
-### Disclaimer
-
-PerMed is intended for research purposes only and does not replace professional medical advice, diagnosis, or treatment.
-
+## Status
+Fine-tuning on Meditron completed. Evaluation in progress.
