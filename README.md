@@ -1,3 +1,16 @@
+```html
+<p align="center">
+  <img src="assets/logo.png" alt="PerMed Logo" width="180">
+</p>
+
+<h1 align="center">PerMed</h1>
+
+<p align="center">
+Persian Medical Large Language Model for Healthcare AI
+</p>
+```
+
+
 # 🩺 PerMed
 
 **PerMed** is a research project developed as part of my Master's thesis in Artificial Intelligence.
