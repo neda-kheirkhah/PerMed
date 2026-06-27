@@ -66,3 +66,17 @@ This modular design enables the framework to be extended to future multilingual 
 * Research-oriented system architecture
 * Modular and extensible design
 * Developed as an MSc Artificial Intelligence research project
+
+## Experimental Results
+
+The current implementation demonstrates the feasibility of adapting medical large language models for Persian healthcare applications.
+
+The ongoing research evaluates:
+
+* Medical question answering quality
+* Persian language understanding
+* Response consistency
+* Medical terminology translation
+* Domain-specific prompt effectiveness
+
+Detailed quantitative evaluations and benchmark results will be released after the completion of the research.
