@@ -2,9 +2,9 @@
   <img src="assets/logo.png" alt="PerMed Logo" width="180">
 </p>
 
-<h1 align="center">PerMed</h1>
+<h1 align="left">PerMed</h1>
 
-<p align="center">
+<p align="left">
 Persian Medical Large Language Model for Healthcare AI
 </p>
 # 🩺 PerMed
