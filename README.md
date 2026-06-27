@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/logo.png" alt="PerMed Logo" width="180">
 </p>
 
