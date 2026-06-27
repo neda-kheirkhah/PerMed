@@ -31,3 +31,9 @@ The framework consists of the following components:
 6. Evaluation and Validation
 
 The overall objective is to provide reliable Persian medical question answering while preserving the medical knowledge learned from English biomedical resources.
+
+## Motivation
+
+Although medical large language models such as Meditron demonstrate strong performance on English biomedical tasks, they provide limited support for Persian-speaking healthcare professionals and patients.
+
+PerMed was developed to bridge this gap by exploring Persian adaptation strategies for medical LLMs, enabling more accessible, reliable, and multilingual medical question answering while preserving domain-specific medical knowledge.
