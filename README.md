@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://colab.research.google.com/github/neda-kheirkhah/PerMed/blob/main/src/PerMed_Research_GitHub_Demo.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="assets/banner.png" width="100%">
 </p>
 # 🩺 PerMed
