@@ -1,9 +1,6 @@
 AutoTokenizer.from_pretrained(...)
 AutoModelForCausalLM.from_pretrained(...)
-```python
-"""
-Model loading utilities for PerMed.
-"""
+
 
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
