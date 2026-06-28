@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://colab.research.google.com/github/neda-kheirkhah/PerMed/blob/main/src/PerMed_Research_GitHub_Demo.ipynb">
+  <a href="https://colab.research.google.com/github/neda-kheirkhah/PerMed/blob/main/notebooks/PerMed_Research_GitHub_Demo.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </p>
